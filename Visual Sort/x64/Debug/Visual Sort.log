@@ -1,16 +1,16 @@
 ﻿  main.cpp
-c:\users\student\documents\visual sort\visual sort\visual sort\main.cpp(39): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-c:\users\student\documents\visual sort\visual sort\visual sort\main.cpp(47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\student\documents\visual sort\visual sort\visual sort\main.cpp(48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\student\documents\visual sort\visual sort\visual sort\main.cpp(49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\student\documents\visual sort\visual sort\visual sort\main.cpp(50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\student\documents\visual sort\visual sort\visual sort\main.cpp(86): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
-c:\users\student\documents\visual sort\visual sort\visual sort\main.cpp(86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\student\documents\visual sort\visual sort\visual sort\main.cpp(43): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\student\documents\visual sort\visual sort\visual sort\main.cpp(51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\student\documents\visual sort\visual sort\visual sort\main.cpp(52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\student\documents\visual sort\visual sort\visual sort\main.cpp(53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\student\documents\visual sort\visual sort\visual sort\main.cpp(54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
 c:\users\student\documents\visual sort\visual sort\visual sort\main.cpp(87): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
 c:\users\student\documents\visual sort\visual sort\visual sort\main.cpp(87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
 c:\users\student\documents\visual sort\visual sort\visual sort\main.cpp(88): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
 c:\users\student\documents\visual sort\visual sort\visual sort\main.cpp(88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
 c:\users\student\documents\visual sort\visual sort\visual sort\main.cpp(89): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
 c:\users\student\documents\visual sort\visual sort\visual sort\main.cpp(89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\student\documents\visual sort\visual sort\visual sort\main.cpp(106): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\student\documents\visual sort\visual sort\visual sort\main.cpp(90): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\student\documents\visual sort\visual sort\visual sort\main.cpp(90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\student\documents\visual sort\visual sort\visual sort\main.cpp(108): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
   Visual Sort.vcxproj -> C:\Users\Student\Documents\Visual Sort\Visual Sort\x64\Debug\Visual Sort.exe
